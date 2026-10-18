@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Kaggle / competition assets (large; not ours to redistribute)
+ARC-AGI-3-Agents/
+arc_agi_3_wheels/
+environment_files/
+arc-prize-2026-arc-agi-3.zip
+.kaggle/
+
+# Local run output and recordings
+runs/
+recordings/
+server_recording/
+logs.log
+*.parquet
+*.jsonl
+
+# Secrets / local config
+.env
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

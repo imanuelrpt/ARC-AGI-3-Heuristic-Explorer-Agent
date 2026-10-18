@@ -1,0 +1,8 @@
+# Store all text with LF line endings, regardless of the author's OS.
+* text=auto eol=lf
+
+*.ipynb text eol=lf
+*.png binary
+*.jpg binary
+*.zip binary
+*.parquet binary
