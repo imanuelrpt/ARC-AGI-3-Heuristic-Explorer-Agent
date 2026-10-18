@@ -1,1 +1,1 @@
-# ARC-AGI-3-Heuristic-Explorer-Agent
+# ARC-AGI-3: Heuristic-Explorer-Agent
